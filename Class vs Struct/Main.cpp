@@ -7,3 +7,8 @@ class Vector3 {
 	double y;
 	double z;
 };
+
+int main() {
+
+	return 0;
+}
