@@ -9,6 +9,7 @@ class Vector3 {
 };
 
 int main() {
+	Vector3 vec;
 
 	return 0;
 }
