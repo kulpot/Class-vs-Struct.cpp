@@ -14,5 +14,6 @@ int main() {
 	Vector3 vec;
 	vec.x = 1.5;
 	vec.y = 2.0;
+	vec.z = 2.5;
 	return 0;
 }
