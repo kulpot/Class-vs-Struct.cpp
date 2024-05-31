@@ -10,6 +10,6 @@ class Vector3 {
 
 int main() {
 	Vector3 vec;
-
+	vec.x = 1.5;
 	return 0;
 }
